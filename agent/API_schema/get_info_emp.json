@@ -1,0 +1,76 @@
+{
+    "openapi": "3.0.3",
+    "info": { 
+      "title": "Get Employee Info and Leave Request API", 
+      "version": "1.0.0" 
+    },
+    "paths": {
+      "/get_employee_info": {
+        "post": {
+          "summary": "Lấy thông tin nhân viên và yêu cầu nghỉ phép",
+          "description": "API lấy thông tin chi tiết nhân viên và yêu cầu nghỉ phép của họ",
+          "operationId": "get_employee_info",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "employeeID": {
+                      "type": "string",
+                      "description": "Mã nhân viên"
+                    }
+                  },
+                  "required": ["employeeID"]
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Thông tin nhân viên và yêu cầu nghỉ phép",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "employeeID": { "type": "string" },
+                      "password": { "type": "string" },
+                      "emp_name": { "type": "string" },
+                      "position": { "type": "string" },
+                      "managerID": { "type": "string" },
+                      "manager_email": { "type": "string" },
+                      "department": { "type": "string" },
+                      "email": { "type": "string" },
+                      "current_project": { "type": "string" },
+                      "project_managerID": { "type": "string" },
+                      "project_manager_email": { "type": "string" },
+                      "available_leave_days": { "type": "number" },
+                      "leave_requests": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "requestID": { "type": "string" },
+                            "employeeID": { "type": "string" },
+                            "ngay_bat_dau_nghi": { "type": "string", "format": "date" },
+                            "ngay_ket_thuc_nghi": { "type": "string", "format": "date" },
+                            "so_ngay_nghi": { "type": "number" },
+                            "loai_nghi": { "type": "string" },
+                            "li_do_xin_nghi": { "type": "string" },
+                            "trang_thai": { "type": "string" },
+                            "ghi_chu": { "type": "string" }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

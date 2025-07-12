@@ -1,0 +1,117 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+      "title": "Leave Request API",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/leave_request": {
+        "post": {
+          "summary": "Gửi yêu cầu xin nghỉ phép",
+          "description": "API gửi yêu cầu nghỉ phép của nhân viên, bao gồm ngày nghỉ, loại nghỉ, lý do nghỉ.",
+          "operationId": "leave_request",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "employeeID": {
+                      "type": "string",
+                      "description": "Mã nhân viên"
+                    },
+                    "ngay_bat_dau_nghi": {
+                      "type": "string",
+                      "format": "date",
+                      "description": "Ngày bắt đầu nghỉ phép"
+                    },
+                    "ngay_ket_thuc_nghi": {
+                      "type": "string",
+                      "format": "date",
+                      "description": "Ngày kết thúc nghỉ phép"
+                    },
+                    "so_ngay_nghi": {
+                      "type": "number",
+                      "description": "Số ngày nghỉ phép yêu cầu"
+                    },
+                    "loai_nghi": {
+                      "type": "string",
+                      "description": "Loại nghỉ phép",
+                      "enum": ["Nghỉ phép năm", "Nghỉ ốm", "Nghỉ thai sản", "Nghỉ việc riêng"]
+                    },
+                    "li_do_xin_nghi": {
+                      "type": "string",
+                      "description": "Lý do xin nghỉ phép"
+                    }
+                  },
+                  "required": [
+                    "employeeID",
+                    "ngay_bat_dau_nghi",
+                    "ngay_ket_thuc_nghi",
+                    "loai_nghi",
+                    "li_do_xin_nghi"
+                  ]
+                }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Thông tin yêu cầu nghỉ phép đã được xử lý",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "message": {
+                        "type": "string",
+                        "example": "Yêu cầu nghỉ {so_ngay_nghi} ngày đã được gửi thành công."
+                      },
+                      "leave_request": {
+                        "type": "object",
+                        "properties": {
+                          "requestID": { "type": "string" },
+                          "employeeID": { "type": "string" },
+                          "ngay_bat_dau_nghi": { "type": "string", "format": "date" },
+                          "ngay_ket_thuc_nghi": { "type": "string", "format": "date" },
+                          "so_ngay_nghi": { "type": "number" },
+                          "loai_nghi": { 
+                            "type": "string",
+                            "enum": ["Nghỉ phép năm", "Nghỉ ốm", "Nghỉ thai sản", "Nghỉ việc riêng"]
+                          },
+                          "li_do_xin_nghi": { "type": "string" },
+                          "trang_thai": { 
+                            "type": "string",
+                            "enum": ["Chờ duyệt", "Đã duyệt", "Từ chối"],
+                            "description": "Trạng thái của yêu cầu nghỉ phép"
+                          },
+                          "ghi_chu": { "type": "string" }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "400": {
+              "description": "Yêu cầu nghỉ phép không hợp lệ hoặc thiếu thông tin",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "error": {
+                        "type": "string",
+                        "example": "Không đủ ngày phép hoặc thông tin chưa đầy đủ."
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

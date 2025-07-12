@@ -1,0 +1,2 @@
+Action group leave_request: Kiểm tra và tạo yêu cầu nghỉ phép và gửi email đến các bên liên quan
+Action group get_info_emp: tra cứu thông tin nhân viên.

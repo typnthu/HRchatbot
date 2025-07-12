@@ -1,0 +1,682 @@
+﻿
+Công ty NexusTech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SỔ TAY NHÂN VIÊN
+
+
+
+Mục lục
+Chương I – GIỚI THIỆU	3
+LỜI NÓI ĐẦU CỦA GIÁM ĐỐC	3
+VÀI NÉT SƠ LƯỢC VỀ CÔNG TY	3
+VĂN HÓA CÔNG TY NEXUSTECH	4
+Chương II – CÁC QUI ĐỊNH TRONG CÔNG TY	4
+Chương III – CHÍNH SÁCH NHÂN SỰ	8
+THỬ VIỆC VÀ THỬ THÁCH	8
+THỰC TẬP	9
+PHÂN CẤP BẬC VÀ PHÂN HẠNG CÔNG VIỆC	10
+ĐÁNH GIÁ KẾT QUẢ CÔNG VIỆC	10
+NGHỈ THƯỜNG NIÊN	11
+NGHỈ ỐM	12
+NGHỈ THAI SẢN	13
+LÀM VIỆC TRONG ĐIỀU KIỆN ĐẶC BIỆT	13
+ĐÀO TẠO VÀ PHÁT TRIỂN	14
+THÔI VIỆC	15
+THUYÊN CHUYỂN VIỆC	15
+CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG	16
+LƯƠNG VÀ CÁC QUYỀN LỢI	17
+CHẾ ĐỘ PHÚC LỢI	18
+Chương IV: KHEN THƯỞNG VÀ KỶ LUẬT	19
+ĐỀ BẠT VÀ KHEN THƯỞNG	19
+KỶ LUẬT	19
+Chương VI – HIỆU LỰC SỬA ĐỔI	21
+
+
+Chương I – GIỚI THIỆU
+LỜI NÓI ĐẦU CỦA GIÁM ĐỐC
+Thay mặt Ban Giám Đốc Công Ty, tôi rất vui mừng chào đón bạn trở thành thành viên của NexusTech. Với khả năng và trình độ chuyên môn, bạn đã được tuyển chọn vào làm việc tại Công ty. Tôi tin tưởng rằng chúng ta sẽ cùng nhau xây dựng Công ty thành công và phát triển lâu dài.
+Chúng ta cùng chia sẻ những cơ hội, thách thức cạnh tranh, sự thành đạt và lợi ích trong tương lai thông qua:
+1. Cung cấp giải pháp CNTT chất lượng cao, đáp ứng tốt nhất nhu cầu của khách hàng.
+2. Xây dựng đội ngũ chuyên gia giàu kinh nghiệm, sáng tạo, tận tâm và không ngừng nâng cao trình độ.
+3. Hợp tác với các đối tác công nghệ hàng đầu để đảm bảo giải pháp tiên tiến và hiệu quả.
+4. Duy trì hiệu quả tài chính vững chắc để đảm bảo sự phát triển bền vững của công ty.
+Tôi trông đợi bạn sẽ làm việc hết sức mình, nỗ lực cống hiến năng lực của mình để góp phần đạt được hoài bão và sứ mạng này.
+Chúng tôi luôn kỳ vọng và tin tưởng mỗi nhân viên sẽ phát huy tối đa tinh thần sáng tạo, khả năng tự hoàn thiện để tạo sức mạnh và động lực thúc đẩy mọi thành viên của Công ty làm việc. Vì thế, chúng tôi ủng hộ tinh thần làm việc hợp tác, tin cậy và cởi mở trong công ty. 
+Đây không chỉ là ngày bắt đầu công việc của bạn và mà còn là bước khởi đầu phát triển nghề nghiệp của bạn.
+Sổ tay nhân viên này nhằm giúp bạn làm quen với những thông tin cần thiết, các nội quy, qui định và đồng thời cả các quyền lợi và trách nhiệm của bạn trong Công ty. Tôi mong bạn sẽ sử dụng Sổ tay như một nguồn thông tin khi cần thiết.
+Chúc bạn luôn thành công trong công việc và có một tương lai đầy hứa hẹn tại Công ty chúng ta.		
+Giám đốc Điều hành
+VÀI NÉT SƠ LƯỢC VỀ CÔNG TY
+      NexusTech được thành lập bởi hai chuyên gia dày dạn kinh nghiệm và tâm huyết trong lĩnh vực công nghệ thông tin. Công ty chính thức hoạt động từ ngày 17/02/2024 với mục tiêu cung cấp các giải pháp IT hiện đại và hiệu quả cho doanh nghiệp.
+      Lĩnh vực hoạt động chính:
+- Cung cấp giải pháp phần cứng và phần mềm tùy chỉnh theo yêu cầu khách hàng.
+- Tư vấn và triển khai hệ thống hạ tầng công nghệ thông tin.
+- Dịch vụ bảo mật và an toàn thông tin.
+- Tư vấn và hỗ trợ chuyển đổi số cho doanh nghiệp.
+- Dịch vụ hỗ trợ kỹ thuật và bảo trì hệ thống CNTT.
+      Định hướng quản lý: NexusTech áp dụng mô hình quản lý theo kết quả và theo dự án, với phương pháp "Quản trị theo mục tiêu" (Management by Objectives - MBO) làm nền tảng. Điều này giúp tối ưu hóa hiệu suất làm việc của nhân viên và đảm bảo các mục tiêu chiến lược của công ty được thực hiện hiệu quả.
+      Với đội ngũ nhân viên chuyên nghiệp, lãnh đạo trẻ trung nhưng giàu kinh nghiệm, cùng sự hợp tác chặt chẽ với các chuyên gia và đối tác uy tín, NexusTech cam kết mang đến môi trường làm việc năng động, sáng tạo và nhiều cơ hội phát triển cho tất cả nhân viên.
+VĂN HÓA CÔNG TY NEXUSTECH
+1. Làm việc theo đội
+Một tập thể làm việc hợp tác và hiệu quả là yếu tố thiết yếu cho sự thành công. Vì vậy, công ty luôn tạo điều kiện để các cá nhân làm việc theo đội; kết quả đạt được của đội chính là thành quả của mỗi cá nhân. Sự đóng góp và hợp tác của từng thành viên sẽ tạo ra sức mạnh của cả công ty.
+2. Trao đổi thông tin
+Bạn được khuyến khích chia sẻ các quan điểm, tìm kiếm thông tin, cung cấp dữ liệu và giải quyết những vướng mắc cùng với cấp trên trực tiếp; khi cần thiết cũng có thể tham khảo ý kiến của bất kỳ thành viên nào trong Ban Lãnh đạo để đi đến giải pháp sau cùng. Trưởng phòng của bạn luôn lắng nghe ý kiến của bạn, khuyến khích những nỗ lực và tìm giải pháp cho những khó khăn mà bạn gặp phải. Ban Giám đốc không chấp nhận cách truyền đạt thông tin sai lệch, đồn thổi, gây chia rẽ nội bộ làm tinh thần làm việc và quan hệ đồng nghiệp trở nên đố kỵ và thiếu hợp tác.
+3. Tôn trọng giá trị Nhân viên
+Công ty luôn xem con người là nguồn lực quý giá nhất. Vì thế, công ty luôn tạo mọi điều kiện để bạn phát huy hết tiềm năng của mình bằng cách khuyến khích bạn học hỏi thêm và tin tưởng giao phó những trọng trách cao hơn, phù hợp với khả năng và kinh nghiệm mà bạn có thể đảm trách.
+4. Trách nhiệm
+Sự thành công của công ty phụ thuộc vào việc thỏa mãn những quyền lợi hợp lý, đúng đắn của khách hàng và nhân viên. Điều này cần phải có sự hợp tác toàn tâm toàn ý của mọi thành viên trong công ty. Bạn cần phải làm việc đúng giờ, đều đặn, hoàn thành công việc một cách hữu hiệu, đạt chất lượng cao và chấp hành nội quy, quy định và chuẩn mực đã đề ra.
+5. Tính chuyên nghiệp trong công việc
+Tính chuyên nghiệp được thể hiện bằng cam kết cung cấp giải pháp và công cụ cho khách hàng với chất lượng cao, dịch vụ hậu mãi chu đáo và uy tín, giao tiếp với khách hàng bằng thái độ hòa nhã, lịch thiệp, tôn trọng nhau trong thương lượng và tranh luận để đi đến thống nhất. Sử dụng các biểu mẫu, tài liệu chuẩn của công ty khi gửi đến khách hàng... Mặt khác, tính chuyên nghiệp còn thể hiện bằng việc chấp hành nghiêm túc nguyên tắc quản lý điều hành, đảm bảo hoàn thành xuất sắc nhiệm vụ được giao. Tính chuyên nghiệp cũng đòi hỏi bạn kiểm soát hữu hiệu cảm xúc cá nhân của mình để lắng nghe, trao đổi nhằm giải quyết các rắc rối, khó khăn trong công việc theo mục tiêu chung của công ty.
+6. Tự nguyện tham gia hoạt động xã hội và phát triển cộng đồng
+Ban Giám đốc và toàn thể nhân viên công ty NexusTech tự nguyện tham gia các hoạt động từ thiện hoặc các công tác xã hội để phát triển cộng đồng và tôn trọng pháp luật.
+Chương II – CÁC QUI ĐỊNH TRONG CÔNG TY
+1. Giờ làm việc
+Thời gian làm việc bình thường là 8 giờ một ngày và 44 giờ một tuần. Cụ thể như sau:
+Ngày làm việc: Từ thứ 2 đến thứ 7
+Giờ làm việc: 8:00 đến 17:00
+Nghỉ ăn trưa: 01 tiếng
+Nghỉ tuần: chiều thứ Bảy và Chủ nhật hàng tuần
+Thông thường Công ty nghỉ làm việc vào chiều thứ Bảy, tuy nhiên do yêu cầu của khách hàng và công việc, nhân viên có thể linh động sắp xếp lịch làm việc và phải đảm bảo làm đủ 44 giờ / một tuần. Các nhân viên (trừ Giám đốc và các chuyên viên) thay phiên nhau trực chiều thứ bảy hàng tuần.
+2. Tác phong và trang phục
+Để tạo hình ảnh chuyên nghiệp cho Công ty, bạn phải chăm sóc đến tác phong và trang phục của mình khi đi làm việc trong hay ngoài Công ty. Yêu cầu:
+Mặc áo đồng phục của công ty. Đối với nhân viên thực tập: mặc áo có cổ, lịch sự.
+Không mặc quần Jean.
+Mang giày.
+Giữ móng tay ngắn, tóc gọn gàng.
+3. Ra vào công ty
+- Trong giờ làm việc, tất cả cán bộ nhân viên khi đi công tác phải được sự đồng ý của cấp trên trực tiếp và phải được thông báo đến tiếp tân hay người có liên quan để được hỗ trợ công việc trong thời gian vắng mặt.
+- Nhân viên Bộ phận Phát triển Kinh doanh đi công tác theo kế hoạch đã được Trưởng bộ phận duyệt trước.
+- Nếu đến công ty làm việc vào ngày nghỉ, phải thông báo cho cấp trên trực tiếp và bấm thẻ ghi giờ làm việc.
+Thẻ nhân viên và thẻ bấm giờ
+Trước khi vào làm việc, bạn nhận thẻ bấm giờ tại Bảo vệ và bấm giờ tại máy (đặt tại góc trái cửa phụ vào tòa nhà) để ghi nhận giờ vào/ra. Sau khi bấm, để thẻ tại khung treo thẻ.
+4. Phạm vi đi lại
+Trong giờ làm việc phải luôn có mặt tại nơi làm việc, chỉ đến khu vực khác khi có yêu cầu công việc.
+5. Hút thuốc lá
+Chỉ được hút thuốc ở khu vực có đặt gạt tàn. Các khu vực khác cấm hút thuốc. Công ty khuyến khích nhân viên không hút thuốc.
+6. Phương tiện thông báo
+Email nội bộ là kênh thông tin quan trọng từ Ban Giám đốc. Bạn có trách nhiệm đọc email thường xuyên.
+Thông báo văn bản sẽ được dán trên bảng tin nội bộ tại khu vực thư viện.
+7. Sử dụng căn tin
+- Căn tin tại lầu 3 phục vụ học viên trong giờ nghỉ và giờ trưa.
+- Nhân viên dùng bữa trưa từ 12:00 đến 13:00 nếu không có học viên. Ưu tiên học viên. Giữ vệ sinh chung, tắt đèn, máy lạnh khi rời căn tin.
+- Công ty cung cấp nước uống tiêu chuẩn hàng ngày tại căn tin.
+8. Sử dụng điện thoại
+Tuân thủ phép lịch sự khi gọi điện với khách hàng.
+Chỉ dùng điện thoại riêng khi cần thiết và ngắn gọn. Không gọi ra nước ngoài.
+Không sử dụng điện thoại trong cuộc họp nội bộ và với khách hàng.
+9. Cập nhật thông tin cá nhân
+Bạn phải thông báo cho Phòng Hành chính Nhân sự và Cấp trên khi có thay đổi về nơi ở, hôn nhân, gia đình, bằng cấp, số người thân liên hệ khẩn cấp... để cập nhật hồ sơ cá nhân. Công ty sẽ bảo mật thông tin.
+10. An toàn lao động
+- Phát hiện nguy cơ tai nạn phải báo ngay cho Ban giám đốc, Bảo vệ và tham gia xử lý khẩn cấp nếu cần.
+- Trong trường hợp tai nạn:
+Sơ cứu tại chỗ, nếu cần sẽ chuyển đến cơ sở y tế gần nhất.
+Báo cáo gửi về Phòng Hành chính Nhân sự để giải quyết quyền lợi.
+Nếu tai nạn xảy ra ngoài công ty khi đi công tác, đi làm hay về nhà, cần bản tường trình và xác nhận từ cơ quan chức năng để làm bảo hiểm.
+11. Thực hiện trật tự, vệ sinh nơi làm việc
+- Không nói lớn tiếng, gây ồn ào, mất trật tự làm ảnh hưởng đến người xung quanh. Đi lại, di chuyển nhẹ nhàng, bảo đảm sự yên tĩnh cần thiết nơi làm việc.
+- Luôn trả lại vị trí cũ và sắp xếp các vật dụng, vật liệu, tài liệu, báo  ngay ngắn, gọn gàng, đẹp mắt sau khi sử dụng.
+- Thực hiện vệ sinh bàn ghế, máy móc thiết bị, vật dụng, ngăn chứa hồ sơ, tủ, nơi làm việc cá nhân và giữ gìn vệ sinh chung trong công ty.
+12. Quản lý và sử dụng tài sản công ty
+- Nhân viên không được phép tự ý di chuyển bất kỳ tài sản, vật dụng nào thuộc quyền sở hữu của công ty ra khỏi khuôn viên khi chưa có sự đồng ý của Ban Giám đốc. Trường hợp công việc yêu cầu, phải có xác nhận chính thức từ Ban Giám đốc.
+- Các tài sản, trang thiết bị được công ty giao cho cá nhân quản lý và sử dụng phải có biên bản bàn giao. Khi mang ra ngoài phục vụ công việc, nhân viên phải chịu trách nhiệm bảo quản và hoàn trả đầy đủ.
+- Khi tiếp nhận tài sản, thiết bị từ công ty, nhân viên phải ký nhận. Khi hoàn trả, tài sản phải được kiểm tra và xác nhận còn trong tình trạng sử dụng tốt như ban đầu.
+- Nghiêm cấm sử dụng tài sản, thiết bị, vật dụng của công ty cho mục đích cá nhân dưới bất kỳ hình thức nào.
+- Nhân viên cần ý thức tiết kiệm chi phí, sử dụng hợp lý văn phòng phẩm, thiết bị, dụng cụ và các phương tiện làm việc được công ty trang bị.
+- Tắt đèn, máy móc thiết bị, máy lạnh khi ra khỏi nơi làm việc trong thời gian dài hoặc trước khi ra về.
+13. Phương tiện đi công tác
+- Trong trường hợp công việc yêu cầu nhân viên sử dụng xe gắn máy cá nhân để di chuyển, công ty sẽ hỗ trợ trợ cấp công tác phí, bao gồm: chi phí xăng, bảo trì và gửi xe, theo quy định của Phòng Hành chính.
+- Trong những trường hợp sau bạn được dùng thẻ taxi để đi công  tác:
+o Đi  tư vấn, đi gặp gỡ khách hàng hoặc giao dịch công việc xa công ty.
+o Nhóm nhân viên cùng đi công tác (trên 3 người) không thể di chuyển bằng xe máy.
+o Đi công tác phải chở đồ đạc cồng kềnh, cần giữ để không va chạm, ẩm ướt.
+o Đi thu/trả tiền cho khách hàng hoặc đi ngân hàng rút và gửi với số tiền lớn trên 20 triệu đồng.
+o Đi tiếp xúc với các đối tác quan trọng, các quan chức cao cấp, cơ quan ban ngành cấp Sở trở lên.
+Lưu ý: Chi phí sử dụng taxi sẽ được hạch toán dựa trên định mức ngân sách hoạt động của từng bộ phận. Định mức này sẽ được lập trong kế hoạch tài chính hàng năm và do Trưởng bộ phận trực tiếp quản lý.
+14. Khách của công ty và của cá nhân
+- Đón khách tại khu vực tiếp tân và tiếp khách.
+- Không được đưa bạn bè, người thân vào phòng làm việc.
+- Luôn ở bên cạnh khách trong suốt thời gian khách lưu lại văn phòng. Không được để xảy ra trường hợp khách đi lại tự do một mình trong khu vực làm việc của công ty.
+- Không được để khách ở lại công ty sau thời gian làm việc với bất kỳ lý do nào.
+15. Các trường hợp khẩn cấp
+Trong trường hợp khẩn cấp nguy hiểm đến tính mạng và tài sản, bạn phải:
+- Thông báo ngay cho Ban giám đốc và bảo vệ về sự cố, báo động cho những người xung quanh.
+- Tắt công tắc các máy móc thiết bị điện, nguồn điện đang sử dụng và rời khởøi nơi làm việc bằng lối thoát hiểm.
+- Mỗi nhân viên phải biết đang sử dụng hoặc phụ trách tài sản nào của công ty và chịu trách nhiệm mang theo khi di chuyển ra khỏi văn phòng như: CPU Server, các đĩa mềm lưu trữ…
+- Tập hợp tại nơi an toàn gần công ty trong thời gian thực hiện cứu chữa. Không được tự ý bỏ về khi chưa điểm danh và được sự đồng ý của cấp quản lý.
+- Vào ban đêm, khi có trường hợp khẩn cấp xảy ra, nhân viên trực đêm phải báo ngay cho cơ quan chức năng theo danh bạ điện thoại khẩn được gắn tại tổng đài công ty và cho các thành viên Ban giám đốc.
+16. Phần mềm/ Email/ Internet/Mạng LAN
+- Một trong những qui định của NesxusTech là nghiêm cấm bạn tự ý sao chép, sử dụng các phần mềm có bản quyền hoặc không có bản quyền vào bất kỳ một máy tính nào của công ty . 
+- Bạn không được sử dụng Email của Công ty vào các giao dịch kinh doanh cá nhân.
+- Bạn không được sử dụng account của Công ty để vào Internet cho những tìm hiểu, học hỏi hay giải trí cá nhân. Bạn phải bảo mật Password của cá nhân để vào mạng của Công ty.
+17. Qui tắc bảo mật và bảo vệ uy tín Công ty
+- Bất kỳ khi nào bạn rời khỏi nơi làm việc để ăn giữa ca, về nhà, tiếp khách hoặc tham gia , nơi làm việc của bạn phải được gọn gàng, các tài liệu quan trọng phải được cất giữ. Nguyên tắc này không chỉ đảm bảo những thông tin quan trọng của công ty được bảo mật mà còn giữ cho môi trường làm việc sạch sẽ.
+- Xé vụn các tài liệu mật (liên quan đến bài test, nội dung các chương trình , hệ thống công cụ giải pháp, các tài liệu liên quan đến khách hàng…) của Công ty trước khi bỏ vào giỏ rác. 
+- Không được phép nhận tiền hoa hồng hoặc quà tặng do các giao dịch của Công ty mang lại. Tiền hoa hồng nếu có, phải được nộp về cho Thủ quỹ và được giữ làm Quỹ của Công ty. 
+- Các hoạt động của Công ty chỉ được mang ra thảo luận và bàn bạc với các đối tác bên ngoài Công ty trên cơ sở hiểu biết và nắm rõ mục đích của đối tác.
+- Luôn vui vẻ và nhiệt tình, lịch sự khi giao tiếp với khách hàng. Khi có vấn đề bất đồng, không được lạm dụng ngôn ngữ, xúc phạm khách hàng.
+- Tuyệt đối giữ bí mật các thông tin nội bộ của khách hàng mà trong quá trình thực hiện dịch vụ có thể biết được.
+18. Tiết kiệm
+Tiết kiệm là hành vi thể hiện thái độ trân trọng giá trị sức lao động. Vì thế, toàn thể nhâân viên Công ty được yêu cầu thực hiện các hành vi tiết kiệm trong khi sử dụng văn phòng phẩm, giấy, mực in, điện thoại, máy lạnh, điện, nước, … và chỉ sử dụng cho mục đích phục vụ công việc của Công ty.
+Chương III – CHÍNH SÁCH NHÂN SỰ
+THỬ VIỆC VÀ THỬ THÁCH
+1. Mục đích và nguyên tắc
+Tất cả nhân viên được tuyển dụng vào Công ty NexusTech đều phải trải qua thời gian thử việc và thử thách. Giai đoạn này nhằm:
+- Giúp nhân viên mới đánh giá mức độ phù hợp với công việc và môi trường làm việc tại công ty.
+- Tạo điều kiện cho quản lý đánh giá năng lực chuyên môn, thái độ làm việc, đạo đức nghề nghiệp và khả năng hòa nhập của nhân viên trước khi đưa ra quyết định tiếp nhận chính thức.
+2. Phạm vi áp dụng
+Áp dụng cho tất cả các trường hợp tuyển dụng mới tại công ty.
+3. Quy định trách nhiệm
+Các Trưởng phòng/Bộ phận chịu trách nhiệm:
+- Xây dựng bản mô tả công việc rõ ràng cho nhân viên trong giai đoạn thử việc/thử thách.
+- Giám sát, hỗ trợ và đánh giá công việc của nhân viên thử việc/thử thách.
+- Đảm bảo tính bảo mật, an toàn tài sản và tuân thủ nội quy trong suốt thời gian thử việc/thử thách.
+Phòng Hành chính – Nhân sự (HCNS):
+- Phối hợp với các Trưởng bộ phận xác định thời gian thử việc phù hợp.
+- Tổ chức đánh giá nhân viên trước khi chuyển sang thử thách hoặc tiếp nhận chính thức.
+- Tư vấn và hỗ trợ xây dựng chính sách lương và phúc lợi cho nhân viên thử việc/thử thách.
+4. Quy định thẩm quyền
+- Trưởng phòng, Trưởng bộ phận, Kế toán trưởng: do Giám đốc Điều hành phê duyệt.
+- Nhân viên: do Trưởng bộ phận phê duyệt và chuyển lên Giám đốc Điều hành duyệt lần cuối.
+5. Chính sách chi tiết
+a. Thử việc
+Thời gian thử việc tối đa: 60 ngày.
+Trong thời gian thử việc, hai bên có quyền chấm dứt thỏa thuận với thông báo trước 24 giờ.
+Trước khi kết thúc thử việc 03 ngày, nhân viên sẽ được đánh giá về năng lực, đạo đức và khả năng hòa nhập.
+b. Thử thách
+Nếu đạt yêu cầu sau thử việc, nhân viên sẽ được ký hợp đồng lao động có thời hạn 01 năm (giai đoạn thử thách).
+Trong thời gian thử thách, nếu muốn chấm dứt hợp đồng, hai bên phải báo trước ít nhất 01 tháng.
+Trước khi kết thúc giai đoạn thử thách 03 ngày, nhân viên sẽ được đánh giá lại để quyết định chính thức.phúc lợi của công ty sau khi chuyển sang giai đoạn thử thách.
+6. Lương và phúc lợi
+Trong giai đoạn thử việc, nhân viên được hưởng ít nhất 70% lương cơ bản cộng với các khoản phụ cấp (nếu có).
+Nhân viên chỉ được hưởng chính sách phúc lợi của công ty sau khi chuyển sang giai đoạn thử thách.
+THỰC TẬP
+1. Nguyên tắc
+Việc tiếp nhận người vào thực tập tại Công ty NexusTech phải đáp ứng yêu cầu từ phía tổ chức giới thiệu (nếu có) và phù hợp với nhu cầu công việc, vị trí hoặc vai trò mà người thực tập sẽ đảm nhận trong thời gian thực tập.
+Công ty khuyến khích tiếp nhận thực tập sinh đến từ các lĩnh vực sau:
+- Công nghệ thông tin.
+- Kinh tế.
+- Kế toán.
+- Ngoại ngữ / Tin học.
+Người thực tập được xem là nguồn nhân lực tiềm năng và sẽ được ưu tiên xem xét tuyển dụng nếu phát sinh nhu cầu nhân sự.
+2. Phạm vi áp dụng.
+Áp dụng cho tất cả các trường hợp thực tập tại công ty, bao gồm sinh viên, học viên và người có nhu cầu học hỏi thực tế.
+3. Định nghĩa
+Người thực tập là cá nhân tham gia thực hành công việc tại công ty trong thời gian có giới hạn nhằm học hỏi kỹ năng chuyên môn. Có thể bao gồm sinh viên năm cuối, học viên từ các trung tâm đào tạo, hoặc người tự nguyện đến công ty để tích lũy kinh nghiệm, không yêu cầu trả lương.
+4. Quy định trách nhiệm
+a. Trưởng phòng/Bộ phận:
+Xây dựng kế hoạch thực tập phù hợp tại công ty.
+Hướng dẫn, giám sát công việc của người thực tập.
+Đảm bảo an toàn thông tin, tài sản và duy trì kỷ luật nơi làm việc.
+Đánh giá kết quả thực tập, lập báo cáo nhận xét nếu có yêu cầu.
+b. Phòng Hành chính – Nhân sự (HCNS):
+Phối hợp với Ban Giám đốc và Trưởng bộ phận trong việc đánh giá và kiểm tra người thực tập.
+Hỗ trợ chính sách lương và phúc lợi cho lao động thời vụ hoặc theo giờ nếu được áp dụng.
+5. Chính sách chi tiết
+a. Lương và phúc lợi trong thời gian thực tập
+Lương: Không áp dụng.
+Phúc lợi:
+- Miễn phí bữa trưa tại công ty (áp dụng nếu thực tập đủ 08 tiếng/ngày).
+- Công ty có quyền đơn phương chấm dứt thỏa thuận thực tập, chỉ cần thông báo trước 01 ngày làm việc nếu người thực tập không đảm bảo chất lượng công việc, đạo đức hoặc tác phong.
+b. Kết thúc thực tập
+Người thực tập phải kết thúc đúng thời hạn được quy định trong thỏa thuận thực tập.
+Kết thúc thời gian thực tập, sẽ được đánh giá về năng lực, đạo đức và tác phong thông qua phiếu đánh giá của Trưởng phòng hoặc người hướng dẫn trực tiếp.
+c. Tiếp nhận làm việc tại công ty
+Nếu người thực tập có nguyện vọng làm việc tại công ty sau khi kết thúc thực tập, bộ phận nhân sự sẽ phối hợp với Trưởng bộ phận liên quan để xem xét hồ sơ dựa trên:
+- Nhu cầu tuyển dụng thực tế theo kế hoạch đã phê duyệt.
+- Phiếu đánh giá thực tập.
+- Năng lực của người thực tập so với tiêu chuẩn của vị trí cần tuyển.
+Mọi quyết định tiếp nhận sẽ tuân theo quy định thẩm quyền trong Chính sách tuyển dụng và tuyển chọn.
+PHÂN CẤP BẬC VÀ PHÂN HẠNG CÔNG VIỆC
+1. Mục đích và nguyên tắc
+Việc phân cấp/bậc và phân hạng công việc nhằm xây dựng một cơ sở khoa học, công bằng và hợp lý để đãi ngộ người lao động tương xứng với năng lực và đóng góp của họ đối với công ty.
+Phân cấp/bậc công việc dựa trên tiêu chí về mức độ trách nhiệm mà vị trí đảm nhận. Phân hạng công việc là cơ sở để áp dụng các chế độ phúc lợi và chính sách ưu đãi phù hợp.
+Việc phân cấp/bậc và phân hạng công việc cần được thực hiện trước khi tuyển dụng, thuyên chuyển hoặc điều chỉnh bất kỳ vị trí nào trong công ty.
+2. Phạm vi áp dụng
+Áp dụng cho mọi vị trí công việc tại Công ty NexusTech.
+3. Quy định trách nhiệm và thẩm quyền
+a. Phân cấp/bậc công việc
+Phòng Hành chính – Nhân sự (HCNS) có trách nhiệm xây dựng tiêu chuẩn phân cấp và tiêu chuẩn năng lực cho từng vị trí công việc.
+Việc phân cấp/bậc công việc do Phòng HCNS thực hiện dựa trên các tiêu chuẩn đã được phê duyệt.
+Kết quả phân cấp/bậc phải được Trưởng phòng liên quan kiểm tra và Giám đốc Điều hành phê duyệt.
+b. Thay đổi cấp/bậc công việc
+Phòng HCNS phối hợp với các Trưởng phòng để đảm bảo tính chính xác và kịp thời trong việc cập nhật phân cấp/bậc công việc.
+Định kỳ 06 tháng, Phòng HCNS có trách nhiệm rà soát và cập nhật bảng phân cấp/bậc công việc của từng nhân viên.
+Nhân viên có sự thay đổi đáng kể về trình độ học vấn, kỹ năng hoặc chuyên môn cần thông báo cho quản lý và nộp các văn bằng/chứng chỉ liên quan.
+c. Phân hạng công việc
+Toàn bộ công việc tại công ty được chia thành 04 hạng như sau:
+Hạng A: Giám đốc điều hành, giám đốc bộ phận.
+Hạng B: Quản lý, trưởng phòng.
+Hạng C: Nhân viên.
+Hạng D: Các vị trí khác.
+Phòng HCNS đề xuất phân hạng cho từng vị trí. Kết quả phân hạng được Trưởng phòng kiểm tra và Giám đốc Điều hành phê duyệt.
+Việc phân hạng được xem xét định kỳ 06 tháng/lần và điều chỉnh nếu cần thiết.
+ĐÁNH GIÁ KẾT QUẢ CÔNG VIỆC
+1. Mục đích và nguyên tắc
+Đánh giá kết quả công việc (KQCV) là một quy trình liên tục, không chỉ thực hiện tại một thời điểm cố định trong năm. Đây là trách nhiệm của các cấp quản lý, với sự tham gia chủ động của mọi nhân viên trong công ty.
+Mỗi quý một lần, Trưởng bộ phận phối hợp với Phòng Hành chính – Nhân sự (HCNS) thực hiện đánh giá KQCV cho nhân viên. Giám đốc Điều hành (GĐĐH) trực tiếp đánh giá Trưởng bộ phận và Trưởng phòng HCNS. Kết quả đánh giá sẽ được thông báo đến từng nhân viên.
+2. Phạm vi áp dụng
+Áp dụng cho tất cả nhân viên có hợp đồng lao động chính thức tại Công ty NexusTech.
+3. Quy định trách nhiệm và thẩm quyền
+- Trưởng phòng/Bộ phận: chịu trách nhiệm theo dõi, quan sát và đánh giá nhân viên của mình trong suốt quá trình làm việc.
+- Giám đốc Điều hành (GĐĐH): trực tiếp đánh giá các vị trí từ cấp Trưởng phòng/Bộ phận trở lên.
+- Phòng HCNS: cố vấn, giám sát tiến độ đánh giá trên toàn công ty; tổng hợp kết quả đánh giá theo tiêu chí đã quy định; lưu trữ biên bản và lập báo cáo kết quả chung.
+Tất cả biên bản đánh giá phải được kiểm tra và phê duyệt bởi Giám đốc Điều hành.
+4. Quy trình thủ tục
+Định kỳ mỗi quý, căn cứ theo bản mô tả công việc và biên bản thỏa thuận mục tiêu công việc, công ty sẽ tiến hành đánh giá chính thức kết quả công việc.
+Biên bản đánh giá phải nêu rõ:
+- Mục tiêu công việc của quý tiếp theo
+- Các điểm còn hạn chế
+- Phương hướng cải thiện
+- Nhu cầu phát triển cá nhân và định hướng đào tạo nếu cần
+Biên bản đánh giá sau khi có đủ chữ ký của:
+- Nhân viên được đánh giá
+- Trưởng phòng/Bộ phận trực tiếp
+- Giám đốc Điều hành
+Biên bản đánh giá sẽ được gửi về Phòng HCNS để lưu trữ và tổng hợp thành báo cáo kết quả đánh giá toàn công ty. Đồng thời là căn cứ để phân tích nhu cầu nhân sự và phát triển nguồn lực.
+NGHỈ THƯỜNG NIÊN
+1. Mục đích và nguyên tắc
+Chính sách nghỉ phép thường niên được xây dựng dựa trên hai nguyên tắc chính:
+- Khuyến khích nhân viên sử dụng đầy đủ ngày phép trong năm.
+- Mỗi năm nghỉ phép phải được giải quyết dứt điểm trong năm đó.
+Công ty sẽ cố gắng đáp ứng các kế hoạch nghỉ phép của nhân viên. Tuy nhiên, để đảm bảo hoạt động liên tục, công ty giữ quyền điều chỉnh thời gian nghỉ phép khi cần thiết.
+2. Phạm vi áp dụng
+Áp dụng cho toàn thể cán bộ - nhân viên của công ty, ngoại trừ các thành viên trong Ban Giám đốc (Giám đốc Điều hành).
+3. Quy định trách nhiệm
+Trưởng phòng/Bộ phận:
+- Khuyến khích và tạo điều kiện để nhân viên sử dụng hết ngày phép trong năm.
+- Đảm bảo các đơn xin nghỉ phép đã được duyệt được gửi về Phòng Nhân sự cùng với bảng chấm công hằng tháng.
+Phòng Nhân sự: Tổng hợp, cập nhật và theo dõi việc nghỉ phép của từng nhân viên.
+4. Quy định thẩm quyền
+Việc nghỉ phép thường niên phải được xem xét và phê duyệt bởi:
+- Người phụ trách trực tiếp.
+- Trưởng phòng Hành chính – Nhân sự (HCNS).
+5. Chính sách nghỉ chi tiết
+Số ngày nghỉ phép thường niên
+Áp dụng theo Luật Lao động hiện hành (Điều 74, 75) và các quy định nội bộ của công ty.
+Thủ tục xin nghỉ phép thường niên
+- Nhân viên phải điền vào mẫu đơn xin nghỉ phép và trình cấp có thẩm quyền phê duyệt.
+- Thời hạn nộp đơn:
+o Trước 02 tuần nếu nghỉ từ 07 ngày trở lên.
+o Trước ít nhất 03 ngày nếu nghỉ dưới 07 ngày.
+- Cấp có thẩm quyền phải phản hồi về việc phê duyệt hoặc từ chối, kèm theo lý do nếu từ chối.
+- Nhân viên chỉ được nghỉ khi đơn phép đã được chấp thuận chính thức.
+Trường hợp nghỉ đột xuất
+- Phải thông báo cho cấp trên trực tiếp trong vòng 04 tiếng đầu tiên của ngày nghỉ đầu tiên.
+- Sau khi quay lại làm việc, nhân viên cần bổ sung đơn xin nghỉ phép và hoàn tất quy trình phê duyệt.
+- Trường hợp nghỉ không lý do, không có đơn được phê duyệt, sẽ bị coi là nghỉ không lý do và không được trả lương.
+Nghỉ lễ/ốm trong thời gian nghỉ phép thường niên
+- Nếu có ngày lễ rơi vào thời gian nghỉ phép: ngày lễ được cộng thêm vào thời gian nghỉ phép.
+- Nếu nghỉ ốm trong thời gian nghỉ phép:
+o Phải thông báo kịp thời đến Phòng Nhân sự và Trưởng phòng.
+o Cung cấp giấy chứng nhận y tế khi quay lại làm việc.
+o Việc cộng thêm thời gian nghỉ ốm vào phép sẽ do Trưởng phòng HCNS xem xét và chấp thuận.
+Thanh toán tiền cho ngày nghỉ phép
+Thanh toán bằng tiền cho số ngày nghỉ phép còn lại chỉ áp dụng khi:
+- Cuối năm nhân viên không thể sử dụng hết phép do yêu cầu công việc và được xác nhận bởi Trưởng phòng và Phòng HCNS.
+- Khi nhân viên chấm dứt hợp đồng lao động, và còn ngày phép chưa sử dụng tính đến thời điểm nghỉ việc.
+NGHỈ ỐM
+1. Mục đích và ngyên tắc
+Áp dụng chính sách nghỉ ốm theo quy định của Luật Lao động.
+Mọi trường hợp nghỉ ốm đều phải có chứng minh hợp lệ.
+Tổng số ngày nghỉ ốm trong năm được dùng để xem xét năng lực sức khỏe làm việc của nhân viên.
+2. Phạm vi áp dụng
+Áp dụng cho mọi vị trí công việc.
+3. Trách nhiệm và thẩm quyền
+Trưởng bộ phận có quyền phê duyệt nghỉ ốm tối đa 03 ngày.
+Trường hợp nghỉ trên 03 ngày phải báo Ban Giám đốc.
+Phòng HCNS phải được thông báo và lưu trữ hồ sơ theo đúng quy trình.
+4. Chế độ lương
+Trường hợp: 
+- Không có giấy chứng nhận BHYT (nghỉ phép năm): 100% lương.
+- Có giấy chứng nhận y tế (nghỉ ốm): 75% lương (từ BHYT).
+- Không có giấy và hết phép năm (nghỉ không lương): 0% lương.
+5. Thủ tục nghỉ ốm
+Trường hợp dự kiến nghỉ: Gửi đơn xin nghỉ trước ít nhất 01 ngày.
+Trường hợp nghỉ đột xuất: Phải báo trong 04 giờ đầu tiên của ngày nghỉ đầu tiên.
+Sau khi quay lại, hoàn tất đơn và nộp chứng từ liên quan.
+6. Nghỉ để chăm con ốm
+Bố/mẹ trực tiếp nuôi con được nghỉ:
+- 20 ngày/năm nếu con dưới 3 tuổi.
+- 15 ngày/năm nếu con từ 3 đến 7 tuổi.
+Mức lương áp dụng tương tự như nghỉ ốm cá nhân.
+NGHỈ THAI SẢN
+1. Mục đích và nguyên tắc
+Thực hiện đúng theo Luật Lao động về bảo vệ sức khỏe và quyền lợi cho lao động nữ.
+Đảm bảo hoạt động kinh doanh diễn ra bình thường.
+2. Phạm vi áp dụng
+Áp dụng cho toàn thể cán bộ - nhân viên nữ.
+3. Trách nhiệm và thủ tục
+Nhân viên nộp đơn nghỉ thai sản trước 03 tháng so với ngày dự kiến nghỉ.
+Sau khi được duyệt, bộ phận Nhân sự sẽ tính toán số ngày nghỉ, thông báo cho Trưởng phòng và nhân viên.
+Có thể nghỉ trước sinh tối đa 08 tuần.
+Khi sinh, nhân viên cần thông báo ngày sinh trong vòng 07 ngày.
+4. Lương và hỗ trợ trong thời gian thai sản
+Thực hiện theo Điều 117 & 114 của Luật Lao động.
+5. Điều chỉnh công việc khi thai nghén
+Trường hợp không thể tiếp tục làm việc cũ, công ty sẽ bố trí công việc phù hợp, không phân biệt đối xử.
+6. Nhân sự thay thế tạm thời
+Nhân sự nội bộ sẽ được trả lại vị trí cũ sau khi kết thúc thay thế.
+Nhân sự bên ngoài cần được thông báo rõ là lao động tạm thời và chấm dứt hợp đồng đúng luật.
+7. Trở lại làm việc
+HCNS gửi thư yêu cầu xác nhận ngày trở lại làm việc sau sinh, chậm nhất 04 tuần.
+Nhân viên phải phản hồi bằng văn bản trong vòng 14 ngày.
+LÀM VIỆC TRONG ĐIỀU KIỆN ĐẶC BIỆT
+1. Mục đích và nguyên tắc
+Khuyến khích, động viên nhân viên làm việc trong điều kiện đặc biệt khi có yêu cầu công việc.
+Việc làm trong điều kiện đặc biệt chỉ thực hiện khi có sự điều động từ cấp quản lý.
+2. Phạm vi áp dụng
+Áp dụng cho toàn bộ CBCNV, ngoại trừ các vị trí Hạng A (lãnh đạo).
+3. Định nghĩa điều kiện đặc biệt
+Làm việc vào ngày chủ nhật/ngày lễ.
+Làm việc vào ban đêm (sau 22h).
+4. Trách nhiệm
+Trưởng phòng có trách nhiệm điều động, bố trí nghỉ bù, xác nhận và phê duyệt làm thêm.
+Phòng kế toán thực hiện thanh toán lương, bồi dưỡng theo quy định.
+5. Chính sách lương
+Làm ngày chủ nhật: lương x2, có nghỉ bù.
+Làm ngày lễ: lương x3, có nghỉ bù.
+Làm ban đêm: lương x 1.3 tính theo giờ làm đêm.
+Ngoài ra, công ty hỗ trợ 10.000 VNĐ tiền ăn trưa cho mỗi ngày làm việc vào chủ nhật/lễ.
+ĐÀO TẠO VÀ PHÁT TRIỂN
+1. Phạm vi áp dụng
+Áp dụng cho mọi nhân viên có hợp đồng lao động chính thức với NexusTech.
+2. Trách nhiệm và thẩm quyền
+Phòng Hành chính – Nhân sự (HCNS) chịu trách nhiệm:
+- Xây dựng kế hoạch đào tạo dựa trên:
+o Chủ trương và định hướng phát triển của công ty.
+o Nhu cầu đào tạo thực tế của các bộ phận.
+o Nguyện vọng cá nhân.
+- Triển khai kế hoạch sau khi được Giám đốc Điều hành (GĐĐH) phê duyệt.
+3. Nguyên tắc đào tạo
+Nhằm nâng cao chuyên môn, nghiệp vụ và kỹ năng phù hợp với công việc đang đảm nhận.
+Phù hợp với kế hoạch và chiến lược phát triển của công ty.
+Không ảnh hưởng đến hoạt động kinh doanh nhưng đảm bảo hiệu quả đào tạo.
+4. Xác định nhu cầu đào tạo
+a. Cơ sở xác định
+Tiêu chuẩn năng lực của từng vị trí.
+Biên bản đánh giá kết quả công việc (KQCV) cá nhân.
+Nhu cầu đào tạo cho nhân viên mới hoặc chuyển đổi vị trí.
+b. Phương pháp xác định
+Nhân viên điền phiếu đề xuất đào tạo và gửi về Phòng HCNS.
+Trưởng phòng căn cứ vào bản mô tả công việc và tiêu chuẩn năng lực để xác định chênh lệch và đề xuất đào tạo.
+Khi có giấy mời từ các tổ chức đào tạo bên ngoài, Phòng HCNS xem xét và trình GĐĐH theo kế hoạch đã phê duyệt.
+5. Hình thức đào tạo
+a. Đào tạo tại chỗ (on-the-job)
+Áp dụng cho:
+- Nhân viên mới: hướng dẫn nội quy, quy trình, chính sách và nghiệp vụ.
+- Nhân viên chuyển vị trí: đào tạo công việc và quy định ở vị trí mới.
+Nhân viên có kinh nghiệm sẽ chia sẻ và hướng dẫn đồng nghiệp.
+b. Đào tạo nội bộ
+Công ty tổ chức lớp học, mời giảng viên nội bộ hoặc chuyên gia bên ngoài.
+Phòng HCNS chịu trách nhiệm đàm phán, chuẩn bị chương trình, phương tiện hỗ trợ.
+c. Tham gia khóa học công khai
+Nhân viên được cử tham gia khóa học tổ chức tại NexusTech hoặc trung tâm khác khi nội dung phù hợp với nhu cầu đào tạo đã được duyệt.
+d. Đào tạo bên ngoài
+Phòng HCNS liên hệ tổ chức chuyên môn gửi nhân viên đi học theo đề xuất từ các bộ phận.
+Sau khóa học, nhân viên nộp bản sao chứng chỉ cho Phòng HCNS để lưu hồ sơ.
+6. Đánh giá hiệu quả đào tạo
+Thực hiện thông qua:
+- Bài thu hoạch cá nhân sau đào tạo.
+- Phiếu đánh giá đào tạo.
+- Phân tích hiệu quả đào tạo định kỳ trong kỳ đánh giá KQCV.
+7. Hồ sơ đào tạo
+Lưu tại Phòng HCNS, bao gồm:
+- Hồ sơ đào tạo cá nhân.
+- Hồ sơ khóa học: chương trình, danh sách học viên, kết quả đánh giá.
+THÔI VIỆC
+1. Mục đích và nguyên tắc
+Chính sách này được xây dựng nhằm đảm bảo tính công bằng, chính xác và tuân thủ pháp luật trong mọi trường hợp chấm dứt quan hệ lao động, đồng thời đảm bảo quá trình hoạt động sản xuất – kinh doanh của công ty vẫn diễn ra bình thường.
+2. Phạm vi áp dụng
+Áp dụng cho mọi nhân viên có hợp đồng lao động chính thức với công ty NexusTech.
+3. Quy trình và thủ tục
+a. Thời hạn báo trước
+Thực hiện theo quy định của Luật Lao động (Điều 37.2; 37.3; 38; 41.4).
+b. Thanh toán lương và các khoản liên quan
+Tiền lương tháng cuối cùng cùng với các khoản còn lại (nghỉ phép chưa sử dụng, trợ cấp thôi việc, các khoản thanh toán khác) sẽ được chi trả ngay trước ngày nghỉ việc chính thức.
+Kế toán trưởng có trách nhiệm kiểm tra, thu hồi toàn bộ tài sản, khoản tạm ứng, nợ (nếu có) trước khi thực hiện thanh toán.
+c. Phỏng vấn khi thôi việc
+Phòng HCNS sẽ tổ chức phỏng vấn nghỉ việc trong môi trường bảo mật tuyệt đối.
+Đối với nhân viên thuộc Phòng HCNS, Giám đốc Điều hành sẽ trực tiếp thực hiện phỏng vấn.
+Nội dung phỏng vấn là nguồn thông tin phản hồi quan trọng nhằm cải thiện môi trường làm việc, chính sách và nhận thức nội bộ.
+Kết quả phỏng vấn được lưu trong hồ sơ nhân sự và chỉ công bố sau khi nhân viên đã nghỉ việc (trừ trường hợp được đồng ý công khai trước).
+d. Giấy tờ liên quan
+Đơn xin thôi việc là thủ tục bắt buộc trong mọi trường hợp thôi việc tự nguyện. Trong đơn cần ghi rõ ngày đề nghị nghỉ chính thức.
+Phòng HCNS sẽ làm quyết định thôi việc và cấp thư giới thiệu nếu được yêu cầu.
+Sổ lao động và sổ BHXH sẽ được hoàn tất và trả lại cho nhân viên trong vòng 02 tuần kể từ ngày nghỉ chính thức.
+Phòng Kế toán hoàn tất thủ tục với cơ quan BHXH để đảm bảo đúng thời hạn.
+THUYÊN CHUYỂN VIỆC
+1. Mục đích và nguyên tắc
+Chính sách thuyên chuyển công việc được xây dựng nhằm hỗ trợ việc tái cấu trúc tổ chức, sắp xếp nhân sự hợp lý theo tình hình thực tế và yêu cầu công việc, đồng thời đảm bảo việc bố trí nhân sự phù hợp với năng lực của từng cá nhân.
+2. Phạm vi áp dụng
+Áp dụng cho mọi nhân viên có hợp đồng lao động chính thức tại công ty NexusTech.
+3. Quy trình và thủ tục
+a. Thuyên chuyển do yêu cầu công việc
+Công ty có quyền điều chuyển nhân viên sang bộ phận khác theo nhu cầu công việc, không làm thay đổi mức lương và các quyền lợi liên quan (theo Điều 34 – Bộ luật Lao động).
+b. Thuyên chuyển trái chuyên môn
+Với nhân viên có trình độ chuyên môn cao (đã làm việc từ 01 năm trở lên) hoặc đang giữ chức vụ quản lý, nếu được thuyên chuyển sang vị trí trái chuyên môn thì phải có thỏa thuận và sự đồng ý bằng văn bản của nhân viên.
+Việc thuyên chuyển phải được thông báo ít nhất 01 tuần trước khi áp dụng.
+c. Thuyên chuyển do không đáp ứng yêu cầu hoặc vi phạm kỷ luật
+Công ty có quyền điều chuyển nhân viên sang công việc khác có mức độ thấp hơn nếu nhân viên không đáp ứng được yêu cầu công việc hoặc bị kỷ luật. Thời hạn giữ vị trí mới này là tối đa 06 tháng.
+d. Tuyển dụng nội bộ
+Công ty khuyến khích tuyển dụng nội bộ khi có vị trí trống.
+Nhân viên có nhu cầu và năng lực phù hợp có thể ứng tuyển với sự đồng ý của Trưởng bộ phận.
+Nếu trúng tuyển, nhân viên sẽ được hưởng mức lương và chế độ của chức danh mới.
+CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG
+1. Mục đích và nguyên tắc
+Chính sách này được xây dựng nhằm đảm bảo tính công bằng, chính xác và tuân thủ pháp luật trong mọi trường hợp chấm dứt hợp đồng lao động, đồng thời đảm bảo hoạt động sản xuất – kinh doanh của công ty vẫn diễn ra bình thường.
+2. Phạm vi áp dụng
+Áp dụng cho mọi nhân viên có hợp đồng lao động chính thức với công ty NexusTech.
+3. Quy trình và thủ tục
+a. Từ phía công ty
+Công ty có quyền đơn phương chấm dứt hợp đồng lao động trong các trường hợp:
+- Bị xử lý kỷ luật với hình thức sa thải.
+- Thường xuyên không hoàn thành công việc.
+- Không đủ sức khỏe để tiếp tục làm việc sau thời gian điều trị:
+o Từ 06 tháng trở lên với hợp đồng có thời hạn.
+o Từ 12 tháng trở lên với hợp đồng không xác định thời hạn.
+Thông báo trước:
+- 30 ngày đối với hợp đồng lao động có thời hạn từ 01 đến 03 năm.
+- 03 ngày đối với hợp đồng từ 03 tháng đến dưới 01 năm.
+b. Từ phía nhân viên
+Nhân viên có quyền đơn phương chấm dứt hợp đồng và phải báo trước bằng văn bản:
+- Ít nhất 30 ngày đối với hợp đồng có thời hạn trên 01 năm.
+- 03 ngày đối với hợp đồng dưới 01 năm.
+c. Thủ tục chấm dứt hợp đồng
+Trong vòng 07 ngày kể từ ngày hợp đồng hết hiệu lực hoặc ngày đơn xin nghỉ việc có hiệu lực:
+Công ty có trách nhiệm:
+- Thanh toán lương những ngày làm việc còn lại.
+- Thanh toán tiền nghỉ phép chưa sử dụng.
+- Trợ cấp thôi việc nếu nhân viên làm việc từ 01 năm trở lên.
+- Trả lại hồ sơ cá nhân: lý lịch, bằng cấp, chứng chỉ.
+Nhân viên có trách nhiệm: Hoàn trả tài sản công ty: tài liệu, thiết bị, tạm ứng, v.v.
+d. Trợ cấp thôi việc
+Áp dụng cho nhân viên có thời gian làm việc liên tục trên 01 năm (bao gồm cả thời gian thử việc).
+Mức trợ cấp: 1/2 tháng lương cơ bản cho mỗi năm làm việc.
+Cách tính thời gian làm việc:
+- 01–07 tháng tính là 06 tháng.
+- 08–12 tháng tính là 01 năm.
+Không được nhận trợ cấp thôi việc nếu:
+
+- Thời gian làm việc dưới 01 năm.
+- Tự ý bỏ việc.
+- Bị kỷ luật sa thải.
+LƯƠNG VÀ CÁC QUYỀN LỢI
+1. Mục đích và nguyên tắc
+Chính sách được xây dựng nhằm thiết lập hệ thống lương và quyền lợi công bằng, chính xác, góp phần khuyến khích và động viên nhân viên trong công việc.
+2. Phạm vi áp dụng
+Áp dụng cho mọi nhân viên có hợp đồng lao động chính thức với công ty NexusTech.
+3. Lương
+a. Lương cơ bản
+Mức lương được ghi bằng VNĐ trong Hợp đồng lao động.
+Lương tháng được tính từ ngày 29 tháng trước đến ngày 28 tháng sau.
+Lương căn cứ trên:
+- Độ lớn vị trí công việc
+- Kiến thức, kỹ năng
+- Mức độ hoàn thành công việc
+- Cạnh tranh thị trường lao động
+Lương được thanh toán vào ngày 30 hàng tháng bằng tiền mặt hoặc chuyển khoản. Nếu rơi vào cuối tuần/lễ, thanh toán sẽ dời sớm/trễ từ 1–2 ngày.
+b. Điều chỉnh và tăng lương
+Lương được xét lại hàng năm vào tháng 12.
+Mọi thay đổi có hiệu lực từ 01/01 năm sau.
+Các yếu tố xem xét:
+- Trượt giá
+- Kết quả kinh doanh
+- Biến động thị trường lao động
+- Thành tích cá nhân, thuyên chuyển, đề bạt
+- Độ lớn vị trí công việc
+c. Thưởng kết quả công việc và cuối năm
+Xét thưởng mỗi quý và cuối năm theo chính sách thưởng – kỷ luật.
+d. Chia sẻ lợi nhuận
+20% lợi nhuận ròng sau thuế được đưa vào quỹ phúc lợi nhân viên:
+- 80% phân phối cho nhân viên theo mức độ đóng góp.
+- 20% sử dụng cho hoạt động tập thể, được thống nhất với nhân viên.
+4. Các quyền lợi
+a. Phép năm
+Hưởng nguyên lương nếu làm đủ 12 tháng:
+- Cấp D, C: 12 ngày/năm
+- Cấp B: 15 ngày/năm
+- Cấp A: 18 ngày/năm
+Cộng thêm 1 ngày phép mỗi 2 năm làm việc liên tục.
+Phép chưa nghỉ hết được bảo lưu.
+Nghỉ phép phải đăng ký trước 1 tuần và được Trưởng phòng duyệt.
+Nhân viên làm chưa đủ năm: tính phép tỷ lệ theo số tháng làm việc.
+Trường hợp nghỉ ốm > 3 tháng hoặc tai nạn > 6 tháng: không tính vào thời gian hưởng phép.
+b. Nghỉ lễ
+Nghỉ 8 ngày lễ/năm, hưởng nguyên lương:
+- Ngày tết Dương lịch 01/01
+-  04 ngày Tết Âm lịch
+- Ngày Giải phóng miền Nam thống nhất đất nước 30/04 
+- Ngày Quốc tế lao động 01/05 
+- Ngày lễ Quốc khánh02/09 
+Nếu trùng ngày nghỉ hàng tuần: nghỉ bù vào ngày kế tiếp.
+c. Bảo hiểm
+Bảo hiểm xã hội (BHXH):
+- Nhân viên đóng 5%, công ty đóng 15% lương cơ bản.
+- Hưởng chế độ: ốm đau, tai nạn, thai sản, tử vong.
+Bảo hiểm y tế (BHYT): Công ty đóng 2%, nhân viên đóng 1%.
+Bảo hiểm tai nạn: 
+- Áp dụng cho toàn bộ nhân viên chính thức.
+- Chi trả theo quy định của BHXH và công ty.
+d. Công tác phí
+Áp dụng khi đi công tác trong và ngoài nước:
+Trong nước:
+- Phụ cấp: 100.000đ/ngày
+- Ăn ở: tối đa 150.000đ/ngày (khách sạn 2 sao, có hóa đơn)
+- Đi lại: vé tàu/xe/máy bay có hóa đơn
+- Tiếp khách: tối đa 500.000đ/chuyến (có chứng từ)
+Ngoài nước:
+- Ăn ở: tối đa 50 USD/ngày (khách sạn 2 sao, có hóa đơn)
+- Đi lại: 10 USD/ngày
+- Vé tàu/xe/máy bay: công ty thanh toán (có chứng từ)
+CHẾ ĐỘ PHÚC LỢI
+1. Mục đích và phạm vi áp dụng
+Chính sách phúc lợi được xây dựng nhằm hỗ trợ đời sống tinh thần và vật chất cho nhân viên, tạo môi trường làm việc gắn kết, công bằng và nhân văn. Áp dụng cho toàn thể CBCNV có hợp đồng lao động chính thức tại công ty NexusTech, trừ các trường hợp được nêu cụ thể trong từng mục.
+2. Các chế độ phúc lợi
+a. Bảo hiểm
+Bảo hiểm xã hội: Áp dụng cho toàn thể CBCNV có hợp đồng lao động, ngoại trừ:
+- Nhân viên là người nước ngoài.
+- Nhân viên có sổ hưu trước khi làm việc tại công ty.
+- Nhân viên đang đóng BHXH tại một tổ chức khác.Công ty đóng 15% và nhân viên đóng 5% lương cơ bản.
+- Bảo hiểm y tế: Áp dụng cho toàn thể CBCNV có hợp đồng lao động. Công ty đóng 2%, nhân viên đóng 1% lương cơ bản.
+Bảo hiểm tai nạn: Công ty mua riêng cho toàn bộ nhân viên chính thức để đảm bảo quyền lợi khi xảy ra tai nạn trong thời gian làm việc hoặc trên đường đi làm.
+b. Ăn trưa
+Toàn thể CBCNV có hợp đồng lao động và sinh viên thực tập làm việc đủ 8 giờ/ngày được hỗ trợ 10.000 đồng/ngày.
+c. Tham quan, nghỉ mát
+Áp dụng cho toàn thể CBCNV có hợp đồng lao động, theo kế hoạch hằng năm của công ty.
+d. Cưới hỏi
+CBCNV khi kết hôn sẽ được nhận quà hoặc tiền mặt trị giá không quá 500.000 đồng.
+e. Tang lễ
+Nhân viên tử vong do tai nạn lao động hoặc ốm nghề nghiệp được hưởng chế độ theo Điều 146 của Luật Lao động.
+Trường hợp tứ thân phụ mẫu hoặc con cái qua đời, nhân viên được hỗ trợ 500.000 đồng.
+f. Quà tặng nhân dịp lễ, sự kiện
+Tết Dương lịch: Nhân viên có hợp đồng lao động chính thức.
+Tết Âm lịch (mừng tuổi): Toàn thể nhân viên.
+Quốc tế Phụ nữ (8/3): Nhân viên nữ.
+Ngày Chiến thắng 30/4 và Quốc tế Lao động 1/5: Nhân viên có hợp đồng lao động chính thức.
+Trung thu: Nhân viên có con dưới 18 tuổi.
+Quốc khánh 2/9: Nhân viên có hợp đồng lao động chính thức.
+Ngày Phụ nữ Việt Nam (20/10): Nhân viên nữ.
+Sinh nhật: Áp dụng cho toàn thể CBCNV.
+Thăm hỏi ốm đau: Áp dụng cho toàn thể CBCNV.
+g. Hỗ trợ thai sản
+CBCNV nữ trong thời kỳ thai sản được công ty quan tâm và hỗ trợ theo quy định của pháp luật và chính sách nội bộ.
+Chương IV: KHEN THƯỞNG VÀ KỶ LUẬT
+ĐỀ BẠT VÀ KHEN THƯỞNG
+1. Chính sách đề bạt nhân viên
+Công ty NexusTech luôn khuyến khích và duy trì chính sách đề bạt minh bạch, công bằng, mở ra cơ hội thăng tiến cho mọi nhân viên.
+Nhân viên đạt thành tích cao sẽ được công nhận và cân nhắc đề bạt dựa trên kết quả đánh giá cá nhân, tiềm năng phát triển và khả năng đảm nhận trách nhiệm cao hơn. Việc đề bạt còn phụ thuộc vào cơ cấu tổ chức của phòng ban và toàn công ty.
+2. Chính sách khen thưởng và công nhận thành tích
+Dựa trên định hướng quản lý theo mục tiêu và theo dự án, công ty có cơ chế khen thưởng sau từng giai đoạn hoặc sau khi hoàn tất dự án.
+Việc khen thưởng được thực hiện dựa vào kết quả công việc thực tế, không mang tính hình thức.
+Hình thức công nhận gồm: đề cử nâng bậc, tăng lương, thưởng nóng, thưởng theo quý/năm hoặc các hình thức khen thưởng khác.
+KỶ LUẬT
+Kỷ luật là một công cụ quản lý cần thiết nhằm điều chỉnh hành vi, góp phần xây dựng môi trường làm việc chuyên nghiệp. Việc xử lý kỷ luật được thực hiện trên nguyên tắc xây dựng, khách quan và ổn định.
+1. Hình thức kỷ luật
+Khiển trách bằng miệng: áp dụng cho vi phạm lần đầu, mức độ nhẹ.
+Cảnh cáo bằng văn bản: áp dụng cho vi phạm nghiêm trọng hơn hoặc tái phạm.
+Chuyển công tác, giảm lương: đối với các trường hợp vi phạm nội quy nghiêm trọng hoặc tái phạm trong vòng 3 tháng kể từ ngày bị xử lý kỷ luật.
+Sa thải: áp dụng cho vi phạm nghiêm trọng theo quy định của luật pháp và nội quy công ty.
+2. Các trường hợp buộc thôi việc ngay lập tức
+Trộm cắp, tham ô, tiết lộ bí mật kinh doanh, công nghệ, tài sản trí tuệ.
+Tự ý bỏ việc 5 ngày/tháng hoặc 20 ngày/năm không có lý do.
+Tái phạm trong thời gian chưa xóa kỷ luật.
+Sử dụng, tàng trữ vũ khí, chất cấm, ma túy trong công ty.
+3. Các vi phạm nội quy công ty
+a. Cấp độ 1 – Vi phạm nhẹ:
+Không đạt tiêu chuẩn công việc sau đào tạo.
+Tiếp khách, gọi điện cá nhân trong giờ làm.
+Trì trệ công việc, đi muộn về sớm.
+Ăn uống, hút thuốc, nhai kẹo hoặc khạc nhổ không đúng nơi quy định.
+Tự ý rời khỏi vị trí làm việc không thông báo.
+b. Cấp độ 2 – Vi phạm trung bình:
+Ngủ trong giờ làm việc.
+Lăng mạ, la hét, cư xử không đúng mực.
+Đọc báo, tài liệu ngoài công việc.
+Không thực hiện đúng cam kết với khách hàng.
+Bấm hộ thẻ chấm công cho người khác.
+c. Cấp độ 3 – Vi phạm nghiêm trọng:
+Gạ gẫm khách hàng thu lợi cá nhân, gây ảnh hưởng đến uy tín công ty.
+Tiết lộ thông tin công ty hoặc khách hàng.
+Hợp tác với bên ngoài mà không có sự cho phép của lãnh đạo.
+Nhận hối lộ, không quyết toán tài sản công ty.
+Thiếu trung thực, giả mạo tài liệu.
+Không tuân lệnh cấp trên, có hành vi chống đối.
+Gây chia rẽ nội bộ, xúc phạm người khác.
+Đưa người lạ vào khuôn viên công ty không được phép.
+Phát tán văn bản, tài liệu trái phép.
+Lạm dụng tài sản công ty vào mục đích cá nhân.
+Tổ chức, tham gia hoạt động kinh doanh cá nhân trong công ty.
+Kích động người khác vi phạm nội quy.
+Vi phạm quy định phòng cháy chữa cháy.
+Khai man hồ sơ cá nhân.
+
+CHƯƠNG V – KHIẾU NẠI
+Công ty NexusTech hoan nghênh và trân trọng tiếp nhận mọi ý kiến đóng góp, thắc mắc hoặc khiếu nại từ nhân viên liên quan đến hoạt động, môi trường làm việc hoặc chính sách của công ty. Mục tiêu là không ngừng cải tiến quy trình làm việc và nâng cao hiệu quả tổ chức.
+Công ty cam kết giải quyết các khiếu nại một cách nhanh chóng, công bằng, minh bạch và bảo mật.
+Trường hợp khiếu nại liên quan trực tiếp đến công việc của cá nhân, nhân viên cần trao đổi trước tiên với cấp quản lý trực tiếp để cùng tìm ra giải pháp hợp lý.
+Nếu việc giải quyết từ cấp quản lý chưa thỏa đáng hoặc khi vấn đề liên quan đến phạm vi công ty, nhân viên có thể trực tiếp liên hệ Phòng Hành chính – Nhân sự để được hỗ trợ và trình lên Ban Giám đốc nếu cần thiết.
+Mọi ý kiến phản ánh và khiếu nại đều được xem xét một cách nghiêm túc và không ảnh hưởng đến quyền lợi hoặc đánh giá của nhân viên trong công việc.
+Chương VI – HIỆU LỰC SỬA ĐỔI
+Sổ tay nhân viên được biên soạn dựa trên Luật Lao động hiện hành, Điều lệ công ty, và được đăng ký tại Sở Lao động – Thương binh và Xã hội TP. Hồ Chí Minh.
+Công ty có quyền tiến hành bổ sung, sửa đổi nội dung của Sổ tay nhân viên để phù hợp với thực tiễn hoạt động và các quy định pháp luật mới. Mọi sự điều chỉnh sẽ chỉ có hiệu lực sau khi được Giám đốc Điều hành phê duyệt và có sự chấp thuận của cơ quan chức năng có thẩm quyền (nếu cần thiết).
+Những cập nhật sẽ được thông báo rộng rãi đến toàn thể nhân viên và lưu hành chính thức nội bộ.
+
+
+2
+
+

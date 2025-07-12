@@ -1,0 +1,131 @@
+﻿employeeID;password;emp_name;position;managerID;email;department;manager_email;current_project;project_managerID;project_manager_email;available_leave_days
+EMP001;EMP001;Đặng Minh An;Tổng giám đốc;;lephuongyen61@gmail.com;Ban Giám đốc;;;;;
+EMP002;EMP002;Lê Thế Hà;Giám đốc Tài chính;EMP001;minhthuheolun+cfo@gmail.com;Ban Giám đốc;lephuongyen61@gmail.com;;;;18
+EMP003;EMP003;Đặng Quang Linh;Giám đốc điều hành;EMP001;minhthuheolun+ceo@gmail.com;Ban Giám đốc;lephuongyen61@gmail.com;;;;18
+EMP004;EMP004;Đỗ Phương My;Giám đốc Công nghệ;EMP001;minhthuheolun+cto@gmail.com;Ban Giám đốc;lephuongyen61@gmail.com;;;;18
+EMP005;EMP005;Huỳnh Thế Quân;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+quanh@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP118;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP006;EMP006;Bùi Quang Yến;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+yenbq@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP109;22521437+phonghatang@gm.uit.edu.vn;12
+EMP007;EMP007;Võ Hữu Khoa;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+khoavh@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP030;22521437+phongattn@gm.uit.edu.vn;8
+EMP008;EMP008;Bùi Minh Phong;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+phongbm@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP009;EMP009;Đặng Phương Bình;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+binhdp@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Dự án AI Chatbot;EMP012;22521437+phongquanliduan@gm.uit.edu.vn;10
+EMP010;EMP010;Đỗ Anh My;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+myda@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP011;EMP011;Lê Thị An;Chuyên viên An ninh mạng;EMP012;dtminhthu19022004+anlt@gmail.com;Phòng An toàn Thông tin;22521437+phongattn@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP012;EMP012;Lê Ngọc Phong;Trưởng phòng An toàn Thông tin;EMP004;22521437+phongattn@gm.uit.edu.vn;Phòng An toàn Thông tin;minhthuheolun+cto@gmail.com;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;15
+EMP013;EMP013;Huỳnh Phương Khoa;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+khoahp@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;11
+EMP014;EMP014;Trần Minh Quân;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+quantm@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP015;EMP015;Đặng Thanh Lan;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+landt@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;6
+EMP016;EMP016;Bùi Minh Tú;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+tubm@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP017;EMP017;Huỳnh Phương Trang;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+tranghp@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP018;EMP018;Bùi Hữu Linh;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+linhbh@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;12
+EMP019;EMP019;Huỳnh Thị Hà;Chuyên viên Data Analyst;EMP020;dtminhthu19022004+hahth@gmail.com;Phòng Dữ liệu;22521437+phongdulieu@gm.uit.edu.vn;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;5
+EMP020;EMP020;Huỳnh Văn Linh;Trưởng phòng Dữ liệu;EMP004;22521437+phongdulieu@gm.uit.edu.vn;Phòng Dữ liệu;minhthuheolun+cto@gmail.com;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;15
+EMP021;EMP021;Đặng Ngọc Yến;Quản trị hệ thống;EMP030;dtminhthu19022004+yendn@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP022;EMP022;Trần Thị My;Quản trị hệ thống;EMP030;dtminhthu19022004+mytt@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP023;EMP023;Đặng Phương Phong;Quản trị hệ thống;EMP030;dtminhthu19022004+phongdp@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP024;EMP024;Đỗ Hữu An;Quản trị hệ thống;EMP030;dtminhthu19022004+andh@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP025;EMP025;Nguyễn Anh Linh;Quản trị hệ thống;EMP030;dtminhthu19022004+linhnn@gmail.c;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP026;EMP026;Phạm Phương An;Quản trị hệ thống;EMP030;dtminhthu19022004+anpp@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;7
+EMP027;EMP027;Hoàng Anh Khoa;Quản trị hệ thống;EMP030;dtminhthu19022004+khoaha@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP028;EMP028;Đặng Hữu My;Quản trị hệ thống;EMP030;dtminhthu19022004+mydh@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP029;EMP029;Huỳnh Anh An;Quản trị hệ thống;EMP030;dtminhthu19022004+anha@gmail.com;Phòng Hạ tầng;22521437+phonghatang@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP030;EMP030;Đỗ Phương Dũng;Trưởng phòng Hạ tầng;EMP004;22521437+phonghatang@gm.uit.edu.vn;Phòng Hạ tầng;minhthuheolun+cto@gmail.com;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;15
+EMP031;EMP031;Lê Phương Yến;Nhân viên Kinh doanh;EMP035;dtminhthu19022004+yenlp@gmail.com;Phòng Kinh doanh;22521437+phongkinhdoanh@gm.uit.edu.vn;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;12
+EMP032;EMP032;Lê Ngọc Dũng;Nhân viên Kinh doanh;EMP035;dtminhthu19022004+dungln@gmail.com;Phòng Kinh doanh;22521437+phongkinhdoanh@gm.uit.edu.vn;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;12
+EMP033;EMP033;Huỳnh Anh Trang;Nhân viên Kinh doanh;EMP035;dtminhthu19022004+trangha@gmail.com;Phòng Kinh doanh;22521437+phongkinhdoanh@gm.uit.edu.vn;;;;12
+EMP034;EMP034;Hoàng Hữu Hùng;Nhân viên Kinh doanh;EMP035;dtminhthu19022004+hunghh@gmail.com;Phòng Kinh doanh;22521437+phongkinhdoanh@gm.uit.edu.vn;;;;12
+EMP035;EMP035;Nguyễn Quang Trang;Trưởng phòng Kinh doanh;EMP003;22521437+phongkinhdoanh@gm.uit.edu.vn;Phòng Kinh doanh;minhthuheolun+ceo@gmail.com;;;;15
+EMP036;EMP036;Hoàng Thị Trang;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+tranght@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;9
+EMP037;EMP037;Hoàng Văn Hà;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+hahv@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP038;EMP038;Huỳnh Văn Linh;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+linhhv@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP039;EMP039;Huỳnh Ngọc Vy;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+vyhn@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP040;EMP040;Nguyễn Thế Yến;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+yennt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP041;EMP041;Võ Ngọc Phong;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+phongvn@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;12
+EMP042;EMP042;Đặng Thị Trang;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+trangdt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;12
+EMP043;EMP043;Lê Thanh Linh;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+linhlt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;12
+EMP044;EMP044;Phạm Thị Châu;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+chaupt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;12
+EMP045;EMP045;Đỗ Thanh Phong;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+phongdt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;12
+EMP046;EMP046;Đỗ Văn Phong;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+phongdv@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;;;;6
+EMP047;EMP047;Võ Quang Trang;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+trangvq@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP048;EMP048;Lê Ngọc Yến;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+yenln@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP049;EMP049;Đặng Thanh Vy;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+vydt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP050;EMP050;Võ Minh Bình;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+binhvm@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP051;EMP051;Đỗ Thế Quân;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+quandt@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP052;EMP052;Huỳnh Phương Trang;Nhân viên Hỗ trợ kỹ thuật;EMP053;dtminhthu19022004+tranghp@gmail.com;Phòng Kỹ thuật;22521437+phonglythuat@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP053;EMP053;Võ Thế Yến;Trưởng phòng Kỹ thuật;EMP004;22521437+phonglythuat@gm.uit.edu.vn;Phòng Kỹ thuật;minhthuheolun+cto@gmail.com;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP054;EMP054;Phạm Minh An;Nhân viên Marketing;EMP059;dtminhthu19022004+anpm@gmail.com;Phòng Marketing;22521437+phongmarketing@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;7
+EMP055;EMP055;Nguyễn Anh Dũng;Nhân viên Marketing;EMP059;dtminhthu19022004+dungna@gmail.com;Phòng Marketing;22521437+phongmarketing@gm.uit.edu.vn;Phân tích dữ liệu khách hàng;EMP020;22521437+phongdulieu@gm.uit.edu.vn;12
+EMP056;EMP056;Đặng Thế Lan;Nhân viên Marketing;EMP059;dtminhthu19022004+landt@gmail.com;Phòng Marketing;22521437+phongmarketing@gm.uit.edu.vn;;;;12
+EMP057;EMP057;Võ Phương Quân;Nhân viên Marketing;EMP059;dtminhthu19022004+quanvp@gmail.com;Phòng Marketing;22521437+phongmarketing@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP058;EMP058;Nguyễn Văn An;Nhân viên Marketing;EMP059;dtminhthu19022004+annv@gmail.com;Phòng Marketing;22521437+phongmarketing@gm.uit.edu.vn;;;;12
+EMP059;EMP059;Nguyễn Thanh Yến;Trưởng phòng Marketing;EMP003;22521437+phongmarketing@gm.uit.edu.vn;Phòng Marketing;minhthuheolun+ceo@gmail.com;;;;15
+EMP060;EMP060;Phạm Ngọc Hùng;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+hungpn@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;8
+EMP061;EMP061;Nguyễn Ngọc Linh;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+linhnn@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP062;EMP062;Lê Hữu Yến;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+yenlh@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP063;EMP063;Võ Quang Quân;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+quanvq@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP064;EMP064;Nguyễn Thế Trang;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+trangnt@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP065;EMP065;Lê Thanh Nam;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+namlt@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP066;EMP066;Nguyễn Thế Bình;Nhân viên Nhân sự - Hành chính;EMP067;dtminhthu19022004+binhnt@gmail.com;Phòng Nhân sự - Hành chính;22521437+phonghcns@gm.uit.edu.vn;;;;12
+EMP067;EMP067;Lê Thanh Bình;Trưởng phòng Nhân sự - Hành chính ;EMP003;22521437+phonghcns@gm.uit.edu.vn;Phòng Nhân sự - Hành chính;minhthuheolun+ceo@gmail.com;;;;11
+EMP068;EMP068;Đỗ Thế Vy;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+vydt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;11
+EMP069;EMP069;Võ Quang Sơn;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+sonvq@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP070;EMP070;Trần Quang Dũng;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+dungtq@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP071;EMP071;Đặng Thị Châu;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+chaudt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP072;EMP072;Phạm Anh Quân;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+quanpa@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;12
+EMP073;EMP073;Bùi Thị Vy;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+vybt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP074;EMP074;Nguyễn Ngọc Hà;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+hanng@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;8
+EMP075;EMP075;Trần Anh Bình;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+binhta@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP076;EMP076;Đỗ Thế Trang;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+trangdt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP077;EMP077;Hoàng Anh Hà;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+hahaha@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP078;EMP078;Nguyễn Thế Trang;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+trangnt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;7
+EMP079;EMP079;Hoàng Thanh My;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+myht@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;;;;12
+EMP080;EMP080;Bùi Minh Châu;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+chaubm@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP081;EMP081;Trần Ngọc An;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+antn@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP082;EMP082;Phạm Văn Châu;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+chaupv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;0
+EMP083;EMP083;Bùi Thanh An;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+anbth@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP084;EMP084;Nguyễn Văn Hà;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+hanv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;11
+EMP085;EMP085;Võ Thanh Phong;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+phongvt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP086;EMP086;Đỗ Thanh Châu;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+chaudt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP087;EMP087;Bùi Anh Nam;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+namba@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP088;EMP088;Đỗ Ngọc Bình;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+binhdn@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;4
+EMP089;EMP089;Trần Văn My;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+mytv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP090;EMP090;Đỗ Quang Châu;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+chaudq@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;9
+EMP091;EMP091;Nguyễn Văn Trang;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+trangnv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP092;EMP092;Hoàng Thế Phong;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+phonght@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP093;EMP093;Trần Thanh Trang;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+trangtt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;9
+EMP094;EMP094;Võ Anh Quân;Kỹ sư Phần mềm;EMP109;lamminhthu585+quanva@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP095;EMP095;Trần Thế Vy;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+vyt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;;;;12
+EMP096;EMP096;Đặng Ngọc Tú;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+tudn@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;;;;10
+EMP097;EMP097;Hoàng Thế Linh;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+linhht@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;;;;10
+EMP098;EMP098;Đỗ Quang Tú;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+tudq@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;;;;12
+EMP099;EMP099;Đỗ Thế An;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+andt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;9
+EMP100;EMP100;Nguyễn Phương Dũng;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+dungnp@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP101;EMP101;Đỗ Ngọc Phong;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+phongdn@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP102;EMP102;Lê Quang Trang;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+tranglq@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP103;EMP103;Phạm Hữu Hà;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+hahp@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP104;EMP104;Trần Văn Dũng;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+dungtv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP105;EMP105;Bùi Thế My;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+mybt@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP106;EMP106;Hoàng Minh Vy;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+vyhm@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP107;EMP107;Trần Minh Hùng;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+hungtm@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;8
+EMP108;EMP108;Võ Thế Tú;Kỹ sư Phần mềm;EMP109;dtminhthu19022004+tuv@gmail.com;Phòng Phát triển;22521437+phongphatrien@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP109;EMP109;Trần Thị An;Trưởng phòng Phát triển;EMP004;22521437+phongphatrien@gm.uit.edu.vn;Phòng Phát triển;minhthuheolun+cto@gmail.com;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;15
+EMP110;EMP110;Nguyễn Thị Hùng;Quản lý Dự án;EMP118;dtminhthu19022004+hungnt@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;;;;12
+EMP111;EMP111;Phạm Anh Hà;Quản lý Dự án;EMP118;dtminhthu19022004+hapa@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP112;EMP112;Đặng Quang Trang;Quản lý Dự án;EMP118;dtminhthu19022004+trangdq@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP113;EMP113;Huỳnh Văn Yến;Quản lý Dự án;EMP118;dtminhthu19022004+yenhv@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP114;EMP114;Huỳnh Ngọc Vy;Quản lý Dự án;EMP118;dtminhthu19022004+vyhn@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP115;EMP115;Đặng Hữu An;Quản lý Dự án;EMP118;lamminhthu585+andh@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP116;EMP116;Bùi Thị Vy;Quản lý Dự án;EMP118;dtminhthu19022004+vybt@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Đánh giá bảo mật hệ thống ngân hàng BCD;EMP012;22521437+phongattn@gm.uit.edu.vn;12
+EMP117;EMP117;Đỗ Phương Yến;Quản lý Dự án;EMP118;dtminhthu19022004+yendp@gmail.com;Phòng Quản lý Dự án;22521437+phongquanliduan@gm.uit.edu.vn;Hỗ trợ kỹ thuật hệ thống SmartHome;EMP053;22521437+phonglythuat@gm.uit.edu.vn;12
+EMP118;EMP118;Đặng Ngọc Vỹ;Trưởng phòng Quản lý Dự án;EMP003;22521437+phongquanliduan@gm.uit.edu.vn;Phòng Quản lý Dự án;minhthuheolun+ceo@gmail.com;Dự án AI Chatbot;EMP118;22521437+phongquanliduan@gm.uit.edu.vn;14
+EMP119;EMP119;Huỳnh Thế An;Nhân viên Tài chính - Kế toán;EMP123;dtminhthu19022004+anht@gmail.com;Phòng Tài chính - Kế toán;22521437+phongtaichinh@gm.uit.edu.vn;;;;12
+EMP120;EMP120;Huỳnh Minh Bình;Nhân viên Tài chính - Kế toán;EMP123;dtminhthu19022004+binhhm@gmail.com;Phòng Tài chính - Kế toán;22521437+phongtaichinh@gm.uit.edu.vn;;;;12
+EMP121;EMP121;Lê Minh Lan;Nhân viên Tài chính - Kế toán;EMP123;dtminhthu19022004+lanlm@gmail.com;Phòng Tài chính - Kế toán;22521437+phongtaichinh@gm.uit.edu.vn;;;;12
+EMP122;EMP122;Đỗ Thế Hà;Nhân viên Tài chính - Kế toán;EMP123;dtminhthu19022004+hadt@gmail.com;Phòng Tài chính - Kế toán;22521437+phongtaichinh@gm.uit.edu.vn;;;;12
+EMP123;EMP123;Đỗ Anh Hà;Trưởng phòng Tài chính - Kế toán;EMP002;22521437+phongtaichinh@gm.uit.edu.vn;Phòng Tài chính - Kế toán;minhthuheolun+cfo@gmail.com;;;;15
+EMP124;EMP124;Trần Thanh Tú;Thiết kế UI/UX;EMP130;dtminhthu19022004+tutt@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP125;EMP125;Hoàng Anh Nam;Thiết kế UI/UX;EMP130;dtminhthu19022004+namha@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Phát triển Web nội bộ;EMP094;lamminhthu585+quanva@gmail.com;12
+EMP126;EMP126;Võ Phương Hà;Thiết kế UI/UX;EMP130;dtminhthu19022004+havp@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP127;EMP127;Lê Minh An;Thiết kế UI/UX;EMP130;dtminhthu19022004+anlm@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Phát triển nền tảng thương mại điện tử;EMP109;22521437+phongphatrien@gm.uit.edu.vn;12
+EMP128;EMP128;Trần Thế Khoa;Thiết kế UI/UX;EMP130;dtminhthu19022004+khoatt@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Triển khai hệ thống Hybrid Cloud;EMP030;22521437+phonghatang@gm.uit.edu.vn;12
+EMP129;EMP129;Lê Thị Linh;Thiết kế UI/UX;EMP130;dtminhthu19022004+linhlt@gmail.com;Phòng Thiết kế;22521437+phongthietke@gm.uit.edu.vn;Triển khai hệ thống ERP;EMP115;lamminhthu585+andh@gmail.com;12
+EMP130;EMP130;Đỗ Anh Nam;Trưởng phòng Thiết kế;EMP004;22521437+phongthietke@gm.uit.edu.vn;Phòng Thiết kế;minhthuheolun+cto@gmail.com;;;;15
